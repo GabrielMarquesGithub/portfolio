@@ -14,16 +14,8 @@ export const Container = styled.div`
 
     transition: ${transition.normal};
 
-    & > img {
-      transition: ${transition.slow};
-    }
-
     &:hover {
       box-shadow: ${shadow.high};
-
-      & > img {
-        transform: scale(1.1);
-      }
     }
   `}
 `;
