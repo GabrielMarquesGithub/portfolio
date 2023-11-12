@@ -4,11 +4,11 @@
       "id": 1,
       "name": "HTML",
       "icon": {
-        "url": "/technologies/icons/html-icon.svg?react",
+        "url": "technologies/icons/html-icon.svg?react",
         "alt": "HTML"
       },
       "logo": {
-        "url": "/technologies/logos/html-logo.svg?react",
+        "url": "technologies/logos/html-logo.svg?react",
         "alt": "HTML"
       }
     },
@@ -16,11 +16,11 @@
       "id": 2,
       "name": "Firebase",
       "icon": {
-        "url": "/technologies/icons/firebase-icon.svg?react",
+        "url": "technologies/icons/firebase-icon.svg?react",
         "alt": "Firebase"
       },
       "logo": {
-        "url": "/technologies/logos/firebase-logo.svg?react",
+        "url": "technologies/logos/firebase-logo.svg?react",
         "alt": "Firebase"
       }
     },
@@ -28,11 +28,11 @@
       "id": 3,
       "name": "Github",
       "icon": {
-        "url": "/technologies/icons/github-icon.svg?react",
+        "url": "technologies/icons/github-icon.svg?react",
         "alt": "Github"
       },
       "logo": {
-        "url": "/technologies/logos/github-logo.svg?react",
+        "url": "technologies/logos/github-logo.svg?react",
         "alt": "Github"
       }
     },
@@ -40,11 +40,11 @@
       "id": 4,
       "name": "Git",
       "icon": {
-        "url": "/technologies/icons/git-icon.svg?react",
+        "url": "technologies/icons/git-icon.svg?react",
         "alt": "Git"
       },
       "logo": {
-        "url": "/technologies/logos/git-logo.svg?react",
+        "url": "technologies/logos/git-logo.svg?react",
         "alt": "Git"
       }
     },
@@ -52,11 +52,11 @@
       "id": 5,
       "name": "PostgresSQL",
       "icon": {
-        "url": "/technologies/icons/postgresql-icon.svg?react",
+        "url": "technologies/icons/postgresql-icon.svg?react",
         "alt": "PostgresSQL"
       },
       "logo": {
-        "url": "/technologies/logos/postgresql-logo.svg?react",
+        "url": "technologies/logos/postgresql-logo.svg?react",
         "alt": "PostgresSQL"
       }
     },
@@ -64,11 +64,11 @@
       "id": 6,
       "name": "Sass",
       "icon": {
-        "url": "/technologies/icons/sass-icon.svg?react",
+        "url": "technologies/icons/sass-icon.svg?react",
         "alt": "Sass"
       },
       "logo": {
-        "url": "/technologies/logos/sass-logo.svg?react",
+        "url": "technologies/logos/sass-logo.svg?react",
         "alt": "Sass"
       }
     },
@@ -76,11 +76,11 @@
       "id": 7,
       "name": "React",
       "icon": {
-        "url": "/technologies/icons/react-icon.svg?react",
+        "url": "technologies/icons/react-icon.svg?react",
         "alt": "React"
       },
       "logo": {
-        "url": "/technologies/logos/react-logo.svg?react",
+        "url": "technologies/logos/react-logo.svg?react",
         "alt": "React"
       }
     },
@@ -88,11 +88,11 @@
       "id": 8,
       "name": "Figma",
       "icon": {
-        "url": "/technologies/icons/figma-icon.svg?react",
+        "url": "technologies/icons/figma-icon.svg?react",
         "alt": "Figma"
       },
       "logo": {
-        "url": "/technologies/logos/figma-logo.svg?react",
+        "url": "technologies/logos/figma-logo.svg?react",
         "alt": "Figma"
       }
     },
@@ -100,11 +100,11 @@
       "id": 9,
       "name": "Mysql",
       "icon": {
-        "url": "/technologies/icons/mysql-icon.svg?react",
+        "url": "technologies/icons/mysql-icon.svg?react",
         "alt": "Mysql"
       },
       "logo": {
-        "url": "/technologies/logos/mysql-logo.svg?react",
+        "url": "technologies/logos/mysql-logo.svg?react",
         "alt": "Mysql"
       }
     },
@@ -112,11 +112,11 @@
       "id": 10,
       "name": "Node",
       "icon": {
-        "url": "/technologies/icons/node-icon.svg?react",
+        "url": "technologies/icons/node-icon.svg?react",
         "alt": "Node"
       },
       "logo": {
-        "url": "/technologies/logos/node-logo.svg?react",
+        "url": "technologies/logos/node-logo.svg?react",
         "alt": "Node"
       }
     },
@@ -124,11 +124,11 @@
       "id": 11,
       "name": "MariaDB",
       "icon": {
-        "url": "/technologies/icons/mariadb-icon.svg?react",
+        "url": "technologies/icons/mariadb-icon.svg?react",
         "alt": "MariaDB"
       },
       "logo": {
-        "url": "/technologies/logos/mariadb-logo.svg?react",
+        "url": "technologies/logos/mariadb-logo.svg?react",
         "alt": "MariaDB"
       }
     },
@@ -136,11 +136,11 @@
       "id": 12,
       "name": "Styled Components",
       "icon": {
-        "url": "/technologies/icons/styled-icon.svg?react",
+        "url": "technologies/icons/styled-icon.svg?react",
         "alt": "Styled Components"
       },
       "logo": {
-        "url": "/technologies/logos/styled-logo.svg?react",
+        "url": "technologies/logos/styled-logo.svg?react",
         "alt": "Styled Components"
       }
     },
@@ -148,11 +148,11 @@
       "id": 13,
       "name": "Auth0",
       "icon": {
-        "url": "/technologies/icons/auth0-icon.svg?react",
+        "url": "technologies/icons/auth0-icon.svg?react",
         "alt": "Auth0"
       },
       "logo": {
-        "url": "/technologies/logos/auth0-logo.svg?react",
+        "url": "technologies/logos/auth0-logo.svg?react",
         "alt": "Auth0"
       }
     },
@@ -160,11 +160,11 @@
       "id": 14,
       "name": "CSS",
       "icon": {
-        "url": "/technologies/icons/css-icon.svg?react",
+        "url": "technologies/icons/css-icon.svg?react",
         "alt": "CSS"
       },
       "logo": {
-        "url": "/technologies/logos/css-logo.svg?react",
+        "url": "technologies/logos/css-logo.svg?react",
         "alt": "CSS"
       }
     },
@@ -172,11 +172,11 @@
       "id": 15,
       "name": "Mongo",
       "icon": {
-        "url": "/technologies/icons/mongo-icon.svg?react",
+        "url": "technologies/icons/mongo-icon.svg?react",
         "alt": "Mongo"
       },
       "logo": {
-        "url": "/technologies/logos/mongo-logo.svg?react",
+        "url": "technologies/logos/mongo-logo.svg?react",
         "alt": "Mongo"
       }
     },
@@ -184,11 +184,11 @@
       "id": 16,
       "name": "Javascript",
       "icon": {
-        "url": "/technologies/icons/javascript-icon.svg?react",
+        "url": "technologies/icons/javascript-icon.svg?react",
         "alt": "Javascript"
       },
       "logo": {
-        "url": "/technologies/logos/javascript-logo.svg?react",
+        "url": "technologies/logos/javascript-logo.svg?react",
         "alt": "Javascript"
       }
     },
@@ -196,11 +196,11 @@
       "id": 17,
       "name": "Spring Boot",
       "icon": {
-        "url": "/technologies/icons/spring-boot-icon.svg?react",
+        "url": "technologies/icons/spring-boot-icon.svg?react",
         "alt": "Spring Boot"
       },
       "logo": {
-        "url": "/technologies/logos/spring-boot-logo.svg?react",
+        "url": "technologies/logos/spring-boot-logo.svg?react",
         "alt": "Spring Boot"
       }
     },
@@ -208,11 +208,11 @@
       "id": 18,
       "name": "Material-UI",
       "icon": {
-        "url": "/technologies/icons/material-ui-icon.svg?react",
+        "url": "technologies/icons/material-ui-icon.svg?react",
         "alt": "Material-UI"
       },
       "logo": {
-        "url": "/technologies/logos/material-ui-logo.svg?react",
+        "url": "technologies/logos/material-ui-logo.svg?react",
         "alt": "Material-UI"
       }
     },
@@ -220,11 +220,11 @@
       "id": 19,
       "name": "Hibernate",
       "icon": {
-        "url": "/technologies/icons/hibernate-icon.svg?react",
+        "url": "technologies/icons/hibernate-icon.svg?react",
         "alt": "Hibernate"
       },
       "logo": {
-        "url": "/technologies/logos/hibernate-logo.svg?react",
+        "url": "technologies/logos/hibernate-logo.svg?react",
         "alt": "Hibernate"
       }
     },
@@ -232,11 +232,11 @@
       "id": 20,
       "name": "Visual Studio Code",
       "icon": {
-        "url": "/technologies/icons/vscode-icon.svg?react",
+        "url": "technologies/icons/vscode-icon.svg?react",
         "alt": "Visual Studio Code"
       },
       "logo": {
-        "url": "/technologies/logos/vscode-logo.svg?react",
+        "url": "technologies/logos/vscode-logo.svg?react",
         "alt": "Visual Studio Code"
       }
     },
@@ -244,11 +244,11 @@
       "id": 21,
       "name": "Npm",
       "icon": {
-        "url": "/technologies/icons/npm-icon.svg?react",
+        "url": "technologies/icons/npm-icon.svg?react",
         "alt": "Npm"
       },
       "logo": {
-        "url": "/technologies/logos/npm-logo.svg?react",
+        "url": "technologies/logos/npm-logo.svg?react",
         "alt": "Npm"
       }
     },
@@ -256,11 +256,11 @@
       "id": 22,
       "name": "Java",
       "icon": {
-        "url": "/technologies/icons/java-icon.svg?react",
+        "url": "technologies/icons/java-icon.svg?react",
         "alt": "Java"
       },
       "logo": {
-        "url": "/technologies/logos/java-logo.svg?react",
+        "url": "technologies/logos/java-logo.svg?react",
         "alt": "Java"
       }
     },
@@ -268,11 +268,11 @@
       "id": 23,
       "name": "TailwindCSS",
       "icon": {
-        "url": "/technologies/icons/tailwindcss-icon.svg?react",
+        "url": "technologies/icons/tailwindcss-icon.svg?react",
         "alt": "TailwindCSS"
       },
       "logo": {
-        "url": "/technologies/logos/tailwindcss-logo.svg?react",
+        "url": "technologies/logos/tailwindcss-logo.svg?react",
         "alt": "TailwindCSS"
       }
     },
@@ -280,11 +280,11 @@
       "id": 24,
       "name": "Typescript",
       "icon": {
-        "url": "/technologies/icons/typescript-icon.svg?react",
+        "url": "technologies/icons/typescript-icon.svg?react",
         "alt": "Typescript"
       },
       "logo": {
-        "url": "/technologies/logos/typescript-logo.svg?react",
+        "url": "technologies/logos/typescript-logo.svg?react",
         "alt": "Typescript"
       }
     },
@@ -292,11 +292,11 @@
       "id": 25,
       "name": "Chakra",
       "icon": {
-        "url": "/technologies/icons/chakra-icon.svg?react",
+        "url": "technologies/icons/chakra-icon.svg?react",
         "alt": "Chakra"
       },
       "logo": {
-        "url": "/technologies/logos/chakra-logo.svg?react",
+        "url": "technologies/logos/chakra-logo.svg?react",
         "alt": "Chakra"
       }
     },
@@ -304,11 +304,11 @@
       "id": 26,
       "name": "Bootstrap",
       "icon": {
-        "url": "/technologies/icons/bootstrap-icon.svg?react",
+        "url": "technologies/icons/bootstrap-icon.svg?react",
         "alt": "Bootstrap"
       },
       "logo": {
-        "url": "/technologies/logos/bootstrap-logo.svg?react",
+        "url": "technologies/logos/bootstrap-logo.svg?react",
         "alt": "Bootstrap"
       }
     },
@@ -316,11 +316,11 @@
       "id": 27,
       "name": "Router",
       "icon": {
-        "url": "/technologies/icons/router-icon.svg?react",
+        "url": "technologies/icons/router-icon.svg?react",
         "alt": "Router"
       },
       "logo": {
-        "url": "/technologies/logos/router-logo.svg?react",
+        "url": "technologies/logos/router-logo.svg?react",
         "alt": "Router"
       }
     },
@@ -328,11 +328,11 @@
       "id": 28,
       "name": "Jest",
       "icon": {
-        "url": "/technologies/icons/jest-icon.svg?react",
+        "url": "technologies/icons/jest-icon.svg?react",
         "alt": "Jest"
       },
       "logo": {
-        "url": "/technologies/logos/jest-logo.svg?react",
+        "url": "technologies/logos/jest-logo.svg?react",
         "alt": "Jest"
       }
     },
@@ -340,11 +340,11 @@
       "id": 29,
       "name": "Next",
       "icon": {
-        "url": "/technologies/icons/next-icon.svg?react",
+        "url": "technologies/icons/next-icon.svg?react",
         "alt": "Next"
       },
       "logo": {
-        "url": "/technologies/logos/next-logo.svg?react",
+        "url": "technologies/logos/next-logo.svg?react",
         "alt": "Next"
       }
     },
@@ -352,11 +352,11 @@
       "id": 30,
       "name": "TypeORM",
       "icon": {
-        "url": "/technologies/icons/typeorm-icon.svg?react",
+        "url": "technologies/icons/typeorm-icon.svg?react",
         "alt": "TypeORM"
       },
       "logo": {
-        "url": "/technologies/logos/typeorm-logo.svg?react",
+        "url": "technologies/logos/typeorm-logo.svg?react",
         "alt": "TypeORM"
       }
     },
@@ -364,11 +364,11 @@
       "id": 31,
       "name": "AWS",
       "icon": {
-        "url": "/technologies/icons/aws-icon.svg?react",
+        "url": "technologies/icons/aws-icon.svg?react",
         "alt": "AWS"
       },
       "logo": {
-        "url": "/technologies/logos/aws-logo.svg?react",
+        "url": "technologies/logos/aws-logo.svg?react",
         "alt": "AWS"
       }
     },
@@ -376,11 +376,11 @@
       "id": 32,
       "name": "Docker",
       "icon": {
-        "url": "/technologies/icons/docker-icon.svg?react",
+        "url": "technologies/icons/docker-icon.svg?react",
         "alt": "Docker"
       },
       "logo": {
-        "url": "/technologies/logos/docker-logo.svg?react",
+        "url": "technologies/logos/docker-logo.svg?react",
         "alt": "Docker"
       }
     },
@@ -388,11 +388,11 @@
       "id": 33,
       "name": "Vite",
       "icon": {
-        "url": "/technologies/icons/vite-icon.svg?react",
+        "url": "technologies/icons/vite-icon.svg?react",
         "alt": "Vite"
       },
       "logo": {
-        "url": "/technologies/logos/vite-logo.svg?react",
+        "url": "technologies/logos/vite-logo.svg?react",
         "alt": "Vite"
       }
     },
@@ -400,11 +400,11 @@
       "id": 34,
       "name": "Fauna",
       "icon": {
-        "url": "/technologies/icons/fauna-icon.svg?react",
+        "url": "technologies/icons/fauna-icon.svg?react",
         "alt": "Fauna"
       },
       "logo": {
-        "url": "/technologies/logos/fauna-logo.svg?react",
+        "url": "technologies/logos/fauna-logo.svg?react",
         "alt": "Fauna"
       }
     },
@@ -412,11 +412,11 @@
       "id": 35,
       "name": "Yarn",
       "icon": {
-        "url": "/technologies/icons/yarn-icon.svg?react",
+        "url": "technologies/icons/yarn-icon.svg?react",
         "alt": "Yarn"
       },
       "logo": {
-        "url": "/technologies/logos/yarn-logo.svg?react",
+        "url": "technologies/logos/yarn-logo.svg?react",
         "alt": "Yarn"
       }
     },
@@ -424,11 +424,11 @@
       "id": 36,
       "name": "Axios",
       "icon": {
-        "url": "/technologies/icons/axios-icon.svg?react",
+        "url": "technologies/icons/axios-icon.svg?react",
         "alt": "Axios"
       },
       "logo": {
-        "url": "/technologies/logos/axios-logo.svg?react",
+        "url": "technologies/logos/axios-logo.svg?react",
         "alt": "Axios"
       }
     }
