@@ -75,7 +75,7 @@ function Header() {
         </LinkWithLine>
         <LinkWithLine
           aria-label="Baixar currículo"
-          href="src\assets\files\Gabriel Marques Magalhães - Currículo.pdf"
+          href="files\Gabriel Marques Magalhães - Currículo.pdf"
           download
           icon={<DownloadIcon />}
           IconAriaLabel="Ícone de download"
