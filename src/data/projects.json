@@ -1,0 +1,74 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Real-Fashion",
+      "description": "Este projeto foi desenvolvido ainda durante um curso, ele conta com uma grande descrição de cada etapa por meio de comentários no código e apresenta uma certa complexidade a mais, principalmente na integração com o Firebase, a ideia central do projeto é a construção de um sistema front-end de um e-commerce.",
+      "technologies": [21, 16, 7, 6, 12, 27, 2],
+      "image": {
+        "url": "images/real-fashion.png",
+        "alt": "Image da pagina inicial do projeto Real-Fashion"
+      },
+      "link": {
+        "repository": "https://github.com/NikisGabriel/real-fashion",
+        "deploy": "https://euphonious-youtiao-a6b4e3.netlify.app/"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Cart-React",
+      "description": "Este projeto foi um dos primeiros desenvolvidos de forma independente. Foi criado com foco em estudos, especialmente explorando a criação de um sistema de carrinho de compras. Além disso, foram aplicados conceitos avançados, como o uso do useReducer junto ao um contexto para o gerenciamento de um estado compartilhado visando uma alternativa a ferramentas como o Redux.",
+      "technologies": [21, 16, 24, 33, 7, 12, 27],
+      "image": {
+        "url": "images/cart-app.png",
+        "alt": "Imagem da pagina inicial do projeto Cart-React"
+      },
+      "link": {
+        "repository": "https://github.com/NikisGabriel/cart-react",
+        "deploy": "https://legendary-semolina-3f9fff.netlify.app/"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Hero-Api",
+      "description": "Este projeto é simplista quanto a sua estrutura, mas tem como enfoque além do trabalho com API’s o emprego de abordagens com useReducer. No Hero Api a parte de escolha de design e estilização foi um ponto focal no desenvolvimento.",
+      "technologies": [21, 16, 24, 33, 7, 6, 27],
+      "image": {
+        "url": "images/hero-api.png",
+        "alt": "Image da pagina inicial do projeto Hero-Api"
+      },
+      "link": {
+        "repository": "https://github.com/NikisGabriel/hero-api",
+        "deploy": "https://fanciful-bunny-93b7f4.netlify.app/"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Plane-With-Shapes",
+      "description": "Este projeto é uma ideia simples e foi criado visando a prática sobre alterações de States em aplicações React.",
+      "technologies": [21, 16, 24, 33, 7, 12],
+      "image": {
+        "url": "images/plane-with-shapes.png",
+        "alt": "Image da pagina inicial do projeto Plane-With-Shapes"
+      },
+      "link": {
+        "repository": "https://github.com/NikisGabriel/plane-with-shapes",
+        "deploy": "https://timely-pony-72338e.netlify.app/"
+      }
+    },
+    {
+      "id": 5,
+      "name": "React-Poke-Pagination",
+      "description": "O Favorite é um App focado na interação dos usuários com publicações. O projeto foi construído utilizando React em seu framework Next com a integração do TypeScript",
+      "technologies": [21, 16, 24, 33, 7, 12, 27, 36],
+      "image": {
+        "url": "images/poke-pagination-react.png",
+        "alt": "Image da pagina inicial do projeto React-Poke-Pagination"
+      },
+      "link": {
+        "repository": "https://github.com/NikisGabriel/poke-pagination-react",
+        "deploy": "https://heroic-dieffenbachia-76f10f.netlify.app/"
+      }
+    }
+  ]
+}
